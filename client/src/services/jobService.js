@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:5000/api/jobs";
+const API_URL = "https://job-application-tracker-api-ht6n.onrender.com/api/jobs";
 
 const getToken = () => {
   const user = JSON.parse(localStorage.getItem("user"));
