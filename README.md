@@ -321,6 +321,16 @@ Rejected
 
 ---
 
+## 🌐 Live Demo
+
+Frontend:
+https://job-application-tracker-portal-nine.vercel.app
+
+Backend:
+https://job-application-tracker-api-ht6n.onrender.com
+
+---
+
 # 🚀 Future Enhancements
 
 - Dark Mode
